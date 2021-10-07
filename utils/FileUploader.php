@@ -3,6 +3,7 @@ require_once("../entities/DatabaseHelper.php");
 
 class FileUploader
 {
+    //image addition
     public function uploadImage($image, $email)
     {
         try {
