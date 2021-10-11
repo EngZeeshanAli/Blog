@@ -194,4 +194,12 @@ body {
   padding: 12px 16px;
   z-index: 1;
 }
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
 /* end hactoberfest */
