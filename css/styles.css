@@ -164,4 +164,8 @@ body {
   display: inline-block;
   border-bottom: 1px dotted black;
 }
+.test-writing {
+  writing-mode: vertical-rl; 
+   direction: rtl;
+}
 /* end hactoberfest */
