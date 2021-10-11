@@ -159,4 +159,9 @@ body {
      padding: 50px;
      margin: 20px;
 }
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
 /* end hactoberfest */
