@@ -150,5 +150,13 @@ body {
 .elementor {
     padding-block: 30px 60px;
     writing-mode: vertical-rl; /* Determines the padding block direction */
-}  
+}
+.transparent-boder {
+   border-style: dotted;
+     background-color: lightgrey;
+     width: 300px;
+     border: 15px solid green;
+     padding: 50px;
+     margin: 20px;
+}
 /* end hactoberfest */
