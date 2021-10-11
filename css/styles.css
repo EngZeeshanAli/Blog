@@ -139,3 +139,12 @@ body {
         font-size: 3.5rem;
     }
 }
+
+
+/* addition for hactoberfest */
+
+.element {
+    padding-block: 30px 60px;
+    writing-mode: vertical-rl; /* Determines the padding block direction */
+}
+  /* end hactoberfest */
