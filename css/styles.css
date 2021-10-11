@@ -147,10 +147,12 @@ body {
     padding-block: 30px 60px;
     writing-mode: vertical-rl; /* Determines the padding block direction */
 }
+
 .elementor {
     padding-block: 30px 60px;
     writing-mode: vertical-rl; /* Determines the padding block direction */
 }
+
 .transparent-boder {
    border-style: dotted;
      background-color: lightgrey;
@@ -159,13 +161,20 @@ body {
      padding: 50px;
      margin: 20px;
 }
+
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
+  border-bottom: 1px dotted black; 
 }
+
 .test-writing {
   writing-mode: vertical-rl; 
    direction: rtl;
+}
+
+.ex1 {
+  min-width: 500px;
+  display: inline-block;
 }
 /* end hactoberfest */
