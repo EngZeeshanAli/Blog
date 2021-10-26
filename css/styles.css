@@ -247,19 +247,20 @@ body {
   padding: 8px 16px;
   text-decoration: none;
 }
-    
- .micro{
+  
+   .micro{
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+    }
+.img{
+}
+  .fajr{
   color: black;
   float: left;
   padding: 8px 16px;
   text-decoration: none;
 }
-    .fajr{
-  color: black;
-  float: left;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-    
 
 /* end hactoberfest */
