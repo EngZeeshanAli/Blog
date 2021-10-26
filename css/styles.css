@@ -239,8 +239,7 @@ body {
   float: left;
   padding: 8px 16px;
   text-decoration: none;
-}
-    
+}    
     
 .google a:hover {
   color: black;
@@ -249,13 +248,14 @@ body {
   text-decoration: none;
 }
     
- .micro{
+ .micro:hover{
   color: black;
   float: left;
   padding: 8px 16px;
   text-decoration: none;
 }
-    .dropdown-content :hover{
+
+    .dofd-content :hover{
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -276,5 +276,23 @@ body {
   text-decoration: none;
 }
     
+
     
+
+   .micro{
+
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+    }
+.img{
+}
+  .fajr{
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
 /* end hactoberfest */
