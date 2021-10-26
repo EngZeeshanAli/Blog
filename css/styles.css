@@ -249,6 +249,13 @@ body {
   text-decoration: none;
 }
     
+ .micro:hover{
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+        
  .micro{
   color: black;
   float: left;
