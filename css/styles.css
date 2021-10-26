@@ -256,4 +256,18 @@ body {
   text-decoration: none;
 }
     
+.fakerGoogle {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+    
+ .maintainer :hover{
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+    
 /* end hactoberfest */
