@@ -254,6 +254,7 @@ body {
   padding: 8px 16px;
   text-decoration: none;
 }
+
     .dofd-content :hover{
   display: none;
   position: absolute;
@@ -262,7 +263,20 @@ body {
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+} 
+.pagination a:hover {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
     
+
     
 
    .micro{
