@@ -239,8 +239,7 @@ body {
   float: left;
   padding: 8px 16px;
   text-decoration: none;
-}
-    
+}    
     
 .google a:hover {
   color: black;
@@ -249,7 +248,7 @@ body {
   text-decoration: none;
 }
     
- .micro{
+ .micro:hover{
   color: black;
   float: left;
   padding: 8px 16px;
@@ -265,4 +264,21 @@ body {
 }
     
     
+
+   .micro{
+
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+    }
+.img{
+}
+  .fajr{
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
 /* end hactoberfest */
